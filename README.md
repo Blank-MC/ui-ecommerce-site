@@ -37,7 +37,7 @@ Anda hanya memerlukan peramban web modern (Google Chrome, Firefox, dll.).
 
 1.  **Kloning Repositori:**
     ```bash
-    git clone [https://github.com/Blank-MC/ui-ecommerce-site.git](https://github.com/Blank-MC/ui-ecommerce-site.git)
+    git clone https://github.com/Blank-MC/ui-ecommerce-site.git
     ```
 
 2.  **Masuk ke Direktori Proyek:**
